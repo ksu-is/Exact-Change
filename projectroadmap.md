@@ -1,10 +1,10 @@
-- [x] Create title for website DONE
-- [x] Create description of the website DONE
-- [x] Create Read.me DONE
+- [x] Create title for website 
+- [x] Create description of the website 
+- [x] Create Read.me 
 - [ ] Upload code for reference 
-- [ ] Clone files to Github Desktop and upload them to Visual Studio DONE
-- [ ] Run the code, locate problems under 'Problems' tab DONE
-- [ ] Analyze code in Visual Studio, leave comments for each problem DONE
+- [ ] Clone files to Github Desktop and upload them to Visual Studio 
+- [ ] Run the code, locate problems under 'Problems' tab 
+- [ ] Analyze code in Visual Studio, leave comments for each problem 
 - [ ] Work each problem and find a solution
 - [ ] Make notes of successful changes, and also unscuccessful attempts
-- [ ] Create power point slide to set expectation DONE
+- [ ] Create power point slide to set expectation 
