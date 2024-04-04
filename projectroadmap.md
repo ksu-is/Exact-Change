@@ -1,7 +1,7 @@
 - [x] Create title for website 
 - [x] Create description of the website 
 - [x] Create Read.me 
-- [ ] Upload code for reference ([https://github.com/Manish-Giri/FreeCodeCamp/blob/master/curriculum/challenges/english/02-javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register.english.md](https://github.com/kurushdubash/simple-python-cash-register/blob/master/Cash%20Register.py))
+- [ ] Upload code for reference (https://github.com/kurushdubash/simple-python-cash-register/blob/master/Cash%20Register.py)
 - [ ] Clone files to Github Desktop and upload them to Visual Studio 
 - [ ] Run the code, locate problems under 'Problems' tab 
 - [ ] Analyze code in Visual Studio, leave comments for each problem 
