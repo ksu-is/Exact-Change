@@ -1,7 +1,7 @@
 def calculate_change(cost, amount_paid):
-    change = amount_paid - cost
+    change = round(amount_paid - cost, 2)
 
-    change_in_cents = int(change)
+    change_in_cents = int(change * 100)
 
     quarters = change_in_cents // 25
     change_in_cents %= 25
