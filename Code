@@ -3,11 +3,11 @@ def calculate_change(cost, amount_paid):
 
     change_in_cents = int(change * 100)
 
-   dimes = change_in_cents // 10
-    change_in_cents %= 10
-
     quarters = change_in_cents // 25
     change_in_cents %= 25
+
+    dimes = change_in_cents // 10
+    change_in_cents %= 10
 
     nickels = change_in_cents // 5
     change_in_cents %= 5
