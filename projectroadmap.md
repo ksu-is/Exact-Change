@@ -2,13 +2,13 @@
 - [x] Create description of the website 
 - [x] Create Read.me 
 - [x] Upload code for reference (https://github.com/kurushdubash/simple-python-cash-register/blob/master/Cash%20Register.py)
-- [ ] Clone files to Github Desktop and upload them to Visual Studio 
-- [ ] Run the code, locate problems under 'Problems' tab 
-- [ ] Analyze code in Visual Studio, leave comments for each problem 
-- [ ] Work each problem and find a solution
-- [x] Make notes of successful changes, and also unscuccessful attempts
+- [x] Clone files to Github Desktop and upload them to Visual Studio 
+- [x] Run the code, locate problems under 'Problems' tab 
+- [x] Work each problem and find a solution until final code is completed
 - [x] Schedule meeting on Teams
+- [x] Complete Sprint 2
 - [ ] Create power point slide to set expectation
+- [ ] Complete Sprint 3
 - [ ] Test run of presentation
 - [ ] Complete final presentation and upload recording
 - [ ] Submit final sprint 4
