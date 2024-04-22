@@ -16,16 +16,22 @@ def calculate_change(cost, amount_paid):
 
     return quarters, dimes, nickels, pennies
 
-while True:
-    try:
-        cost = float(input("Enter the cost: $"))
-        amount_paid = float(input("Enter the amount paid: $"))
-        if amount_paid < cost:
-            print("The amount paid must be greater than or equal to the cost. Please try again.")
-            continue
-        
-        quarters, dimes, nickels, pennies = calculate_change(cost, amount_paid)
-        print(f"Change: {quarters} quarters, {dimes} dimes, {nickels} nickels, {pennies} pennies")
-        break
-    except ValueError:
-        print("Invalid input. Please enter numerical values.")
+def main():
+    while True:
+        try:
+            cost = float(input("Enter the cost: $"))
+            amount_paid = float(input("Enter the amount paid: $"))
+            
+            if amount_paid < cost:
+                print("The amount paid must be greater than or equal to the cost. Please try again.")
+                continue
+            
+            quarters, dimes, nickels, pennies = calculate_change(cost, amount_paid)
+            print(f"Change: {quarters} quarters, {dimes} dimes, {nickels} nickels, {pennies} pennies")
+            
+            break
+        except ValueError:
+            print("Invalid input. Please enter numerical values.")
+
+if __name__ == "__main__":
+    main()
