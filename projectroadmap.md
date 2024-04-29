@@ -7,8 +7,8 @@
 - [x] Work each problem and find a solution until final code is completed
 - [x] Schedule meeting on Teams
 - [x] Complete Sprint 2
-- [ ] Create power point slide to set expectation
-- [ ] Complete Sprint 3
+- [x] Create power point slide to set expectation
+- [x] Complete Sprint 3
 - [ ] Test run of presentation
 - [ ] Complete final presentation and upload recording
-- [ ] Submit final sprint 4
+- [ ] Submit final 
